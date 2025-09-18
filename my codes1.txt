@@ -1,0 +1,60 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fusion Services Africa</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="header-overlay">
+    <h1>Fusion Services Africa</h1>
+    <p>Your trusted partner in cleaning, IT & logistics</p>
+  </div>
+</header>
+
+<section class="services">
+  <h2>Our Services</h2>
+  <div class="department">
+    <h3>Cleaning Services</h3>
+    <ul>
+      <li>Office Cleaning</li>
+      <li>Home Cleaning</li>
+      <li>Industrial Cleaning</li>
+      <li>Window & Floor Cleaning</li>
+      <li>Specialized Cleaning (Carpets, Upholstery)</li>
+    </ul>
+  </div>
+  <div class="department">
+    <h3>IT Services</h3>
+    <ul>
+      <li>Fraud Checks</li>
+      <li>Audits & Compliance</li>
+      <li>Software Engineering</li>
+      <li>Laptops, Modems & Wi-Fi</li>
+    </ul>
+  </div>
+  <div class="department">
+    <h3>Logistics & Other Services</h3>
+    <ul>
+      <li>Delivery & Transportation</li>
+      <li>Inventory Management</li>
+      <li>Event Support</li>
+      <li>Future Expansion Services</li>
+    </ul>
+  </div>
+</section>
+
+<section class="contact">
+  <h2>Contact Us</h2>
+  <p>Phone: 0784711196 / +263 7 15939685</p>
+  <p>Email: <a href="mailto:mushypedzisai@gmail.com">mushypedzisai@gmail.com</a></p>
+  <p>Address: 2308 Glaudina, Harare, Zimbabwe</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Fusion Services Africa. All rights reserved.</p>
+</footer>
+</body>
+</html>
